@@ -1,7 +1,7 @@
 {
     "plugins":[
         [
-            "babel-plugiin-styled-components",
+            "babel-plugin-styled-components",
             {
                 "ssr":false
             }
