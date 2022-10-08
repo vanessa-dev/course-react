@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_teches",
+  "info": {
+    "name": "tech",
+    "icon": "tools"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "techicons": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.techicons"
+    }
+  }
+}
