@@ -47,6 +47,16 @@
       "repeatable": false,
       "component": "page.modules",
       "required": true
+    },
+    "agenda": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.agenda"
+    },
+    "priceBox": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.price-box"
     }
   }
 }
