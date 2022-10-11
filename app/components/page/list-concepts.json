@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_list_concepts",
+  "info": {
+    "name": "listConcepts",
+    "icon": "th-list"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
