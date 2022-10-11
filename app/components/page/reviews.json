@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_page_reviews",
+  "info": {
+    "name": "reviews",
+    "icon": "star"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "listReview": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.list-review",
+      "min": 4,
+      "required": true
+    }
+  }
+}
