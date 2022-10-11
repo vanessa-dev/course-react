@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_page_modules",
+  "info": {
+    "name": "modules",
+    "icon": "money-check"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "listModules": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.list-modules",
+      "required": true
+    }
+  }
+}

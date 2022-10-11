@@ -41,6 +41,12 @@
       "type": "component",
       "repeatable": false,
       "component": "page.concepts"
+    },
+    "modules": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.modules",
+      "required": true
     }
   }
 }
