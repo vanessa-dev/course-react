@@ -57,6 +57,11 @@
       "type": "component",
       "repeatable": false,
       "component": "page.price-box"
+    },
+    "aboutUs": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.about-us"
     }
   }
 }
